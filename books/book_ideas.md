@@ -6,6 +6,6 @@
 - [ ] Beginning tree surgery
 - [X] CVS by tutorials
 - [ ] Fortran for fun and profit
-- [x] RxSwift by tutorials
+- [ ] RxSwift by tutorials
 - [ ] Writing tutorials by tutorials
 - [ ] 50 shades of green
